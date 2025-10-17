@@ -17,6 +17,7 @@ Dynamic Programming	0
 
 Two pointers 1
 
+Binary Search 2
 
 Tools & Setup
 
