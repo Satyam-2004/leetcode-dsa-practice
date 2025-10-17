@@ -17,7 +17,6 @@ Dynamic Programming	0
 
 Two pointers 1
 
-Others	8
 
 Tools & Setup
 
