@@ -9,15 +9,17 @@ This repo contains all the problems I’ve solved on LeetCode
 
 Category	Problems Solved
 
-Arrays/strings	3
+Arrays/strings :	3
 
-Linked List	0
+Linked List :	0
 
-Dynamic Programming	0
+Dynamic Programming :	0
 
-Two pointers 1
+Two pointers : 1
 
-Binary Search 2
+Binary Search : 2
+
+Stacks : 1
 
 Tools & Setup
 
