@@ -9,7 +9,7 @@ This repo contains all the problems I’ve solved on LeetCode
 
 Category	Problems Solved
 
-Arrays/strings :	3
+Arrays/strings :	4
 
 Linked List :	0
 
