@@ -21,6 +21,8 @@ Binary Search : 2
 
 Stacks : 1
 
+Total: 9
+
 Tools & Setup
 
 Language: Python 3
