@@ -9,7 +9,7 @@ This repo contains all the problems I’ve solved on LeetCode
 
 Category	Problems Solved
 
-Arrays/strings :	5
+Arrays/strings :	6
 
 Linked List :	0
 
@@ -21,7 +21,7 @@ Binary Search : 2
 
 Stacks : 1
 
-Total: 9
+Total: 10
 
 Tools & Setup
 
