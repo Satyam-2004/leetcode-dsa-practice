@@ -11,6 +11,8 @@ Category	Problems Solved
 
 Arrays/strings :	6
 
+Hashmaps : 0
+
 Linked List :	0
 
 Dynamic Programming :	0
