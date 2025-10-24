@@ -21,7 +21,7 @@ Binary Search : 2
 
 Stacks : 1
 
-Total: 10
+Total: 11
 
 Tools & Setup
 
