@@ -11,7 +11,7 @@ Category	Problems Solved
 
 Arrays/strings :	6
 
-Hashmaps : 0
+Hashmaps : 1
 
 Linked List :	0
 
