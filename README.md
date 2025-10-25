@@ -13,6 +13,8 @@ Arrays/strings :	6
 
 Hashmaps : 1
 
+Maths :
+
 Linked List :	0
 
 Dynamic Programming :	0
