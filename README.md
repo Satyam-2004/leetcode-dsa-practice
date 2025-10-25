@@ -13,7 +13,7 @@ Arrays/strings :	6
 
 Hashmaps : 1
 
-Maths :
+Maths : 1
 
 Linked List :	0
 
