@@ -25,11 +25,13 @@ Binary Search : 2
 
 Stacks : 1
 
+Contest : 2
+
 Total: 11
 
 Tools & Setup
 
-Language: Python 3
+Language: Python3
 
 Editor: Neovim / VS Code
 
