@@ -9,7 +9,7 @@ This repo contains all the problems I’ve solved on LeetCode
 
 Category	Problems Solved
 
-Arrays/strings :	6
+Arrays/strings :	7
 
 Hashmaps : 1
 
@@ -27,7 +27,7 @@ Stacks : 1
 
 Contest : 2
 
-Total: 11
+Total: 14
 
 Tools & Setup
 
