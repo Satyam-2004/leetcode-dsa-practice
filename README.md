@@ -15,7 +15,7 @@ Hashmaps : 1
 
 Maths : 1
 
-Linked List :	0
+Linked List :	1
 
 Dynamic Programming :	0
 
