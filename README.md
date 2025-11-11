@@ -13,7 +13,7 @@ Arrays/strings :	7
 
 Hashmaps : 1
 
-Maths : 1
+Maths : 2
 
 Linked List :	1
 
@@ -36,3 +36,4 @@ Language: Python3
 Editor: Neovim / VS Code
 
 Version Control: Git + GitHub
+
