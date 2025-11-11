@@ -9,7 +9,7 @@ This repo contains all the problems I’ve solved on LeetCode
 
 Category	Problems Solved
 
-Arrays/strings :	7
+Arrays/strings :	9
 
 Hashmaps : 1
 
@@ -36,4 +36,5 @@ Language: Python3
 Editor: Neovim / VS Code
 
 Version Control: Git + GitHub
+
 
