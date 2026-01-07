@@ -25,9 +25,11 @@ Binary Search : 2
 
 Stacks : 1
 
+Binary Tree : 1
+
 Contest : 2
 
-Total: 15
+Total: 16
 
 Tools & Setup
 
@@ -36,6 +38,7 @@ Language: Python3
 Editor: Neovim / VS Code
 
 Version Control: Git + GitHub
+
 
 
 
