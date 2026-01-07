@@ -9,11 +9,11 @@ This repo contains all the problems I’ve solved on LeetCode
 
 Category	Problems Solved
 
-Arrays/strings :	7
+Arrays/strings :	10
 
 Hashmaps : 1
 
-Maths : 1
+Maths : 2
 
 Linked List :	1
 
@@ -27,7 +27,7 @@ Stacks : 1
 
 Contest : 2
 
-Total: 14
+Total: 15
 
 Tools & Setup
 
@@ -36,3 +36,6 @@ Language: Python3
 Editor: Neovim / VS Code
 
 Version Control: Git + GitHub
+
+
+
