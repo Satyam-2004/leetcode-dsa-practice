@@ -13,23 +13,23 @@ Arrays/strings :	10
 
 Hashmaps : 1
 
-Maths : 2
+Maths : 4
 
-Linked List :	1
+Linked List :	3
 
 Dynamic Programming :	0
 
-Two pointers : 1
+Two pointers : 4
 
-Binary Search : 2
+Binary Search : 4
 
 Stacks : 1
 
-Binary Tree : 1
+Binary Tree : 2
 
-Contest : 2
+Contest : 6
 
-Total: 16
+Total: 35
 
 Tools & Setup
 
@@ -38,6 +38,7 @@ Language: Python3
 Editor: Neovim / VS Code
 
 Version Control: Git + GitHub
+
 
 
 
